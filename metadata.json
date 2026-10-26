@@ -1,0 +1,6 @@
+{
+  "name": "Suivi Protocole FIV - Fatou | RMA New York",
+  "description": "Portail personnel de suivi de protocole FIV : liste de contrôle d'exécution immédiate, calendrier des 4 phases, bilan embryologie et préparation au transfert pour Fatou.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
